@@ -6,7 +6,7 @@ const App = () => {
   return (
 
     <div id="main">
-<p>gbvghvh</p>
+
   <Form/>
     
     
